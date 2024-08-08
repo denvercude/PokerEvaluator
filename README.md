@@ -9,7 +9,7 @@ The program accepts command line arguments in the form of card identifiers (e.g.
 - Ah stands for Ace of Hearts
 - 7c stands for Seven of Clubs
 - etc.
-- 
+  
 The program processes the cards to:
 1. Determine which cards belong to each player and the community pile based on the order they are entered.
 2. Evaluate all possible combinations of 2 and 3 cards from each player's hand to build a 5-card hand with the community cards.
