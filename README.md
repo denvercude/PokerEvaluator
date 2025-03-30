@@ -27,10 +27,11 @@ This project was developed as part of a school assignment to practice object-ori
 2. Navigate to the project directory
    - cd poker-hand-evaluator
 3. Compile the source files
-   - javac Poker.java Player.java Card.java HandEvaluator.java
+   - javac Poker.java
 4. Run the Program
    - java Poker 2s 3d 4h 5c 6s 7d 8h 9c Td Jd Qh Kc As
-Note: Provide valid card arguments. Each card is formatted by its rank and suit, e.g., "2s" for Two of Spades, "Ah" for Ace of Hearts.
+
+- Note: Provide valid card arguments. Each card is formatted by its rank and suit, e.g., "2s" for Two of Spades, "Ah" for Ace of Hearts.
 
 # Usage
 
