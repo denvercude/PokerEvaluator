@@ -23,7 +23,7 @@ This project was developed as part of a school assignment to practice object-ori
 # Installation and Running Locally
 
 1. Clone the repository
-   - git clone https://github.com/your-username/poker-hand-evaluator.git
+   
 2. Navigate to the project directory
    - cd poker-hand-evaluator
 3. Compile the source files
