@@ -49,7 +49,6 @@ The program accepts card inputs through the command line, with the following rul
 - Card combination logic and rule-based evaluation systems.
 
 # Future Improvements
-- Future Improvements
 - Optimize sorting algorithm for better performance.
 - Add graphical user interface for better visualization.
 - Implement additional custom poker hand rules.
